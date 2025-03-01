@@ -8,16 +8,21 @@ int main()
     cin >> width;
     cout << "Enter height: ";
     cin >> height;
-    for (int x = 0; x <= width; x++)
+    for (int line = 0; line < width; line ++)
+        cout << "-";
+    cout << endl;
+    for (int x = 0; x < height; x++)    //4
     {
-        for (int y = 0; y <= height; y++)
+        for (int y = 0; y < width; y++) //7
         {
             cout << "*";
         }
+        cout << endl;
     }
 }
 /*
-Write a program box.cpp that asks the user to input width and height and prints a solid rectangular box of the requested size using asterisks.
+Write a program box.cpp that asks the user to input width and height
+prints a solid rectangular box of the requested size using asterisks.
 
 Also, print a line Shape: between user input and the printed shape (to separate input from output).
 
