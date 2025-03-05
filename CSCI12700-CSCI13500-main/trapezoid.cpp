@@ -1,3 +1,13 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4F
+ 
+defines a possible trapezoid shape by a formula and if the user input height doesn't print a trapezoid shape stars, it will print impossible shape
+this code specifically prints spaces for every j iteration that is smaller than i and the sum of i and j being equal or larger than width
+given the coordinates or spaces the coordinates to print stars is done within else loop
+*/
 #include <iostream>
 using namespace std;
 

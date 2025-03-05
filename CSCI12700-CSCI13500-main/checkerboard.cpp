@@ -1,3 +1,11 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4B
+ 
+printing * i every iteration of i and j that is either equal to 0 or the remainder the sum equal to 0
+*/
 #include <iostream>
 using namespace std;
 

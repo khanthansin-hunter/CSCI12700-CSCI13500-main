@@ -1,3 +1,12 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4C
+ 
+given each coordinate of stars in consideration, the condition is expected to print star 
+everytime when i  equals j or the sum of i and equals size - 1
+*/
 #include <iostream>
 using namespace std;
 

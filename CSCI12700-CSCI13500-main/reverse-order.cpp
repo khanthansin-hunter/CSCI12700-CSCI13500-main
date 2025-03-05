@@ -44,9 +44,9 @@ int main()
 
     //reading file into array
 
-    for (int i = SIZE; i >= 0; i--)
+    for (int i = SIZE; i >= 0; i--) // reading from index 999 to 0
     {
-        if (date[i] >= first_user_date && date[i] <= second_user_date)
+        if (date[i] >= first_user_date && date[i] <= second_user_date)  // If first_user_date == 01/01/2018 (index 0) // If second_user_date == 01/10/2018 (index 9)
         {
             cout << date[i] << " " << westEl[i] << endl;
         }

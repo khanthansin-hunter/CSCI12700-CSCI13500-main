@@ -1,3 +1,11 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4A
+ 
+printing * in every iteration within the loop of row and column position resulting in a box shape
+*/
 #include <iostream>
 using namespace std;
 

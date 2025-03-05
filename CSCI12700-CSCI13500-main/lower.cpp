@@ -1,3 +1,11 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4D
+ 
+prints * in every condition as long as j is not larger value than i
+*/
 #include <iostream>
 using namespace std;
 

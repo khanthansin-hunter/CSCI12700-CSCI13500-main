@@ -1,3 +1,11 @@
+/*
+Author: Khant Than Sin
+Course: CSCI-13500
+Instructor: Tong Yi
+Assignment: Lab4E
+ 
+prints a star unless i is smaller than j
+*/
 #include <iostream>
 using namespace std;
 
